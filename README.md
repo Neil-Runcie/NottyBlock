@@ -7,7 +7,7 @@ The functionality currently provided is listed below
   1. Checking if text contains common profanity encountered in American English which does include a few words originating outside of English using wordlist and deep learning models.
   2. Checking if text contains offensive language including but not limited to profanity, hate speech, sexual content, or otherwise offensive content encountered in American English using only deep learning models.
   3. Removing profanity from text using only wordlists which includes both block lists and allow lists.
-
+All API body parameters of a maximum limit of 1000 characters each regarding text to be analyzed.
 
 The deep learning models provide confidence that new and cleverly crafted offensive language is more likely to be detected, unlike would be the case with word lists alone.
 
