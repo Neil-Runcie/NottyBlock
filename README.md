@@ -30,5 +30,6 @@ The character replacements used to preprocess the text are listed below
 *  "$" -> "s"
 *  "+" -> "t"
 
+The API is available here https://rapidapi.com/runcieneild/api/nottyblock
 For any inquiries, reachout to support@ndrsoftware.com.
 This includes and bugs, improvements to functionality, or other similar concerns.
