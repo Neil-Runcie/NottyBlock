@@ -13,8 +13,8 @@ The deep learning models provide confidence that new and cleverly crafted offens
 
 The word lists alongside common character replacements, such as '$' being used as an 's', allow for strict word checking suitable for sensitive situations. However, they come with a greater potential for false negatives. To mitigate that, which is known as the Scunthorpe problem, the flagging process works with a list of whitelisted words to ensure that words like "bass" and "class" are not incorrectly flagged. 
 
-The blocked words are available in the bad_words.csv file in this repository
-The whitelisted words are available in the good_words.csv file in this repository
+The blocked words are available in the bad_words.csv file in this repository.
+The whitelisted words are available in the good_words.csv file in this repository.
 
 The character replacements used to preprocess the text are listed below
 *  "@" -> "a"
@@ -30,5 +30,5 @@ The character replacements used to preprocess the text are listed below
 *  "$" -> "s"
 *  "+" -> "t"
 
-For any inquiries, reachout to support@ndrsoftware.com
+For any inquiries, reachout to support@ndrsoftware.com.
 This includes and bugs, improvements to functionality, or other similar concerns.
